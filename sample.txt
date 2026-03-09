@@ -1,0 +1,4 @@
+this is a sample text file for testing the ingestion engine.
+it contains multiple lines of text to ensure proper processing.
+we will use this to see if the script outputs anything to the console.
+hopefully, everything works as expected and you'll see messages from the ingestion process.
